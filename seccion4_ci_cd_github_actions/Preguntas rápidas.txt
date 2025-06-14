@@ -1,0 +1,13 @@
+Preguntas rápidas
+
+¿Windows o Linux? → Linux (mayor estabilidad y control en ambientes de desarrollo y producción)
+
+¿MySQL o PostgreSQL? → PostgreSQL (mejor en operaciones analíticas y funciones avanzadas)
+
+¿Batch processing o streaming? → Ambos según el caso, pero para datos sensibles al tiempo: streaming
+
+¿ETL o ELT? → ELT (más eficiente en arquitecturas modernas con lakes o warehouses)
+
+¿Parquet o CSV? → Parquet (formato columnar, comprimido, ideal para grandes volúmenes)
+
+¿Spark o Pandas? → Pandas para datasets pequeños/medianos y Spark para procesamiento distribuido a gran escala
