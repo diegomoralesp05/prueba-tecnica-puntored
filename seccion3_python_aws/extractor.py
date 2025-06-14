@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from datetime import datetime, timedelta
 
 # Este script usa un DataFrame simulado.
@@ -47,6 +48,7 @@ archivo_salida = f"resumen_proveedor_{PRODUCTO_PROVEEDOR}.json"
 resultado.to_json(archivo_salida, orient="records", date_format="iso", force_ascii=False, indent=2)
 
 print("Extracción completada. Datos guardados en JSON:", archivo_salida)
+print("Ruta del archivo:", os.path.abspath(archivo_salida))
 
 # Mostrar resultado en consola
 print(resultado)
