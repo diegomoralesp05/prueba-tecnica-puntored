@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime, timedelta
 
-# Este script usa un DataFrame simulado en lugar de conectarse a PostgreSQL
+# Este script usa un DataFrame simulado.
 
 # Producto del proveedor (por ejemplo, proveedor1 tiene producto 'A')
 PRODUCTO_PROVEEDOR = 'A'
