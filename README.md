@@ -1,38 +1,34 @@
-# Prueba Técnica - Ingeniero de Datos Sr - Puntored
+# Prueba Tï¿½cnica - Ingeniero de Datos Sr - Puntored
 
-Este repositorio contiene la solución paso a paso de la prueba técnica para el cargo de **Ingeniero de Datos Senior** en Puntored. La prueba está dividida en cuatro secciones: teoría, SQL, Python con AWS y CI/CD para datos.
+Este repositorio contiene la soluciï¿½n paso a paso de la prueba tï¿½cnica para el cargo de **Ingeniero de Datos Senior** en Puntored. La prueba estï¿½ dividida en cuatro secciones: teorï¿½a, SQL, Python con AWS y CI/CD para datos.
 
 ## Estructura del repositorio
 
 ```
 puntored-prueba-tecnica/
-¦
+ï¿½
 +-- README.md                           # Este archivo
-+-- seccion1_preguntas_teoricas/       # Respuestas teóricas de Python, SQL y AWS
-¦   +-- seccion1_preguntas_teoricas.md
++-- seccion1_preguntas_teoricas/       # Respuestas teï¿½ricas de Python, SQL y AWS
+ï¿½   +-- seccion1_preguntas_teoricas.md
 +-- seccion2_sql/                      # Consultas SQL
-¦   +-- consultas.sql
-+-- seccion3_python_aws/               # Scripts de extracción, APIs y diagramas de pipelines
-¦   +-- extractor.py
-¦   +-- api_server.py
-¦   +-- pipeline_batch.png
-¦   +-- pipeline_realtime.png
-+-- seccion4_ci_cd/                    # Configuración de CI/CD
-¦   +-- .github/workflows/ci.yml
-¦   +-- README.md
-¦   +-- captura_pipeline.png
+ï¿½   +-- consultas.sql
++-- seccion3_python_aws/               # Scripts de extracciï¿½n, APIs y diagramas de pipelines
+ï¿½   +-- extractor.py
+ï¿½   +-- api_server.py
+ï¿½   +-- pipeline_batch.png
+ï¿½   +-- pipeline_realtime.png
++-- seccion4_ci_cd/                    # Configuraciï¿½n de CI/CD
+ï¿½   +-- .github/workflows/ci.yml
+ï¿½   +-- README.md
+ï¿½   +-- captura_pipeline.png
 ```
 
-## Instrucciones de ejecución
+## Instrucciones de ejecuciï¿½n
 
-Cada carpeta contiene los archivos necesarios para responder a los requerimientos de la prueba. Puedes navegar por cada sección y encontrar documentación o ejemplos.
-
----
-
-### Autor
-
-Diego Andrés Morales Pinto
+Cada carpeta contiene los archivos necesarios para responder a los requerimientos de la prueba.
 
 ---
 
-¿Dudas o comentarios? Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/diego-andr%C3%A9s-morales-pinto/).
+Diego Andrï¿½s Morales Pinto
+
+
