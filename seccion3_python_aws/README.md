@@ -69,8 +69,4 @@ http://localhost:5000/api/proveedor/A
 
 ---
 
-## Próximos pasos
 
-* Automatizar el pipeline con cron o AWS Lambda + EventBridge
-* Publicar el API con AWS API Gateway
-* Control de acceso por proveedor
