@@ -68,5 +68,3 @@ http://localhost:5000/api/proveedor/A
 * Si ocurre un error interno, se retorna `500`.
 
 ---
-
-

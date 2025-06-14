@@ -1,0 +1,23 @@
+[
+  {
+    "proveedor":"A",
+    "fecha":"2025-06-13T00:00:00.000",
+    "cliente_id":1,
+    "cantidad_transacciones":2,
+    "monto_total":150.0
+  },
+  {
+    "proveedor":"A",
+    "fecha":"2025-06-13T00:00:00.000",
+    "cliente_id":2,
+    "cantidad_transacciones":1,
+    "monto_total":200.0
+  },
+  {
+    "proveedor":"A",
+    "fecha":"2025-06-13T00:00:00.000",
+    "cliente_id":3,
+    "cantidad_transacciones":1,
+    "monto_total":250.0
+  }
+]
